@@ -1,0 +1,26 @@
+<p><b>I am currently a <a href="https://www.janelia.org/our-research/overview/theory-fellows">Computation & Theory Fellow</a> at <a href="http://janelia.org">HHMI Janelia Research Campus</a>.</b></p>
+									
+										
+									<p>With a multidisciplinary background in mathematics and biophysics,
+										the aim of my research is the development of theoretical concepts and analysis methods
+										for biological data.
+										The main focus of my current work is the development of machine learning methods
+										for transforming images obtained from various imaging techniques (in particular, FIB-SEM and cryo-EM)
+										into one another, with the aim of combining the unique advantages from each technique
+										in order to gain a comprehensive understanding of the true underlying cellular structures.
+									</p>
+
+									<p>Before joining Janelia, I worked as a postdoc at TU Wien, Austria, in the field
+										of single molecule localization microscopy (SMLM), where I also completed my PhD thesis
+										in the Biophysics group of Gerhard Schütz.
+										During this time, I advanced and developed new experimental and analytical strategies
+										for studying oligomerization and nanoclustering of proteins via (cryo-)SMLM techniques.
+									</p>
+
+									<p>My interdisciplinary research has allowed me to gain broad experience collaborating
+										with both theorists and experimentalists.
+										Moreover, I am skilled at writing simulation and analysis software,
+										and always striving to improve code performance, as well as (re-)usability.
+										I am fascinated by the function of cells, from the single molecule level to
+										the multi-cellular context in tissues and always eager to expand my skill set and expertise.
+									</p>
