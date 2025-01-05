@@ -98,6 +98,13 @@ a {
     border-bottom-color: transparent;
     color: #058d96 !important; }
 
+div a:not(.copyright a) {
+  border-bottom: solid 2px #e4e4e4;
+  color: inherit;
+  filter: brightness(0.95);
+  text-decoration: none; }
+
+
 strong, b {
   color: #777;
   font-weight: 700; }
@@ -1736,7 +1743,7 @@ input[type="button"],
           border: 0;
           color: #ffffff !important;
           display: block;
-          padding: 0.70em 0;
+          padding: 0.50em 0;
           text-decoration: none; }
           #header > nav ul li a.active {
             background: #fff;
